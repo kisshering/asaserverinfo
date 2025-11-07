@@ -1561,8 +1561,8 @@
     {
     "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Category_v1.DU_Panel_Category_v1_C",
     "Props": {
-        "Title": "$$Ark-Nucleus$:$SERVER_COMMUNITY_TITLE",
-        "Note": "$$Ark-Nucleus$:$SERVER_COMMUNITY_TITLE_NOTE",
+        "Title": "Player List",
+        "Note": "Show Player List",
         "Icon": "/Game/PrimalEarth/UI/Textures/HubTribeIcon.HubTribeIcon",
         "Fill": 1
     },

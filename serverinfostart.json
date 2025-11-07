@@ -1563,11 +1563,7 @@
     "Props": {
         "Title": "Player List",
         "Note": "Show Player List",
-        "Icon": "/Game/PrimalEarth/UI/Textures/HubTribeIcon.HubTribeIcon",
         "Fill": 1
-    },
-    "UICache": {
-        "SaveFile": "Ark-Nucleus-ServerCommunity"
     },
     "UIItems": [
         {

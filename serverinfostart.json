@@ -1533,7 +1533,7 @@
             {
                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
                 "Props": {
-                    "Title": "Web Url Widget",
+                    "Title": "Player List",
                     "Note": "The Url Widget makes it easy to host the JSON widget somewhere on the web and reuse it on multiple server or edit it without the need to joining the game.",
                     "Fill": 1
                 },

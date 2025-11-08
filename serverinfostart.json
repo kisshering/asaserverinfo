@@ -891,7 +891,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "1. Respect thy Neighbor: Treat your fellow Survivors with courtesy and respect. No harassment, hate speech, or toxic behavior will be tolerated.\n100. testzsghdsghdghdghdhgdg.",
+                                    "Text": "1. Respect thy Neighbor: Treat your fellow Survivors with courtesy and respect. No harassment, hate speech, or toxic behavior will be tolerated.\n\n100. testzsghdsghdghdghdhgdg.",
                                     "FontSize": 14,
                                     "Padding": [
                                         5,

@@ -1538,6 +1538,9 @@
         "Icon": "/Game/PrimalEarth/UI/Textures/HubTribeIcon.HubTribeIcon",
         "Fill": 1
     },
+        "UICache": {
+        "SaveFile": "Ark-Nucleus-ServerCommunity"
+    },
     "UIItems": [
         {
             "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_HorizontalBox_v1.DU_Panel_HorizontalBox_v1_C",

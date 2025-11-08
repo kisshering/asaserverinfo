@@ -592,7 +592,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: What mods are installed on the server?",
+                                    "Text": "$$SERVER$:$FAQ1_HEADLINE",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -605,7 +605,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: We have carefully selected mods to enhance your gaming experience. You can find a list of installed mods by clicking the \"INSTALLED MODS\" on the left side menu.",
+                                    "Text": "$$SERVER$:$FAQ1_TEXT",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,

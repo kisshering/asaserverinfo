@@ -535,44 +535,6 @@
                 },
                 "UIItems": [
                     {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                        "Props": {
-                            "Text": "THIS IS A DEMO PAGE!!!",
-                            "FontSize": 24,
-                            "Justification": "Center",
-                            "Color": [
-                                1,
-                                0,
-                                0
-                            ],
-                            "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
-                            ]
-                        }
-                    },
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                        "Props": {
-                            "Text": "The Question and Answers are just an example until replaced by an admin with their own.",
-                            "FontSize": 22,
-                            "Justification": "Center",
-                            "Color": [
-                                1,
-                                0,
-                                0
-                            ],
-                            "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
-                            ]
-                        }
-                    },
-                    {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
                         "Props": {
                             "Padding": [
@@ -833,25 +795,6 @@
                     "Fill": 1
                 },
                 "UIItems": [
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                        "Props": {
-                            "Text": "THIS IS A DEMO PAGE!!!",
-                            "FontSize": 24,
-                            "Justification": "Center",
-                            "Color": [
-                                1,
-                                0,
-                                0
-                            ],
-                            "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
-                            ]
-                        }
-                    },
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {

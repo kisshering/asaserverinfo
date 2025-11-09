@@ -187,7 +187,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Server Einstellungen:",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET1_HEADLINE",
                                                             "FontSize": 14,
                                                             "Justification": "Left",
                                                             "Padding": [
@@ -201,7 +201,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET1_TEXT",
                                                             "FontSize": 11,
                                                             "Justification": "Left",
                                                             "Fill": 1,
@@ -277,7 +277,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Server Features:",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET2_HEADLINE",
                                                             "FontSize": 14,
                                                             "Justification": "Left",
                                                             "Padding": [
@@ -291,7 +291,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET2_TEXT",
                                                             "FontSize": 11,
                                                             "Justification": "Left",
                                                             "Fill": 1,
@@ -367,9 +367,9 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Q: Who can edit this page?",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET3_HEADLINE",
                                                             "FontSize": 14,
-                                                            "Justification": "Center",
+                                                            "Justification": "Left",
                                                             "Padding": [
                                                                 0,
                                                                 0,
@@ -381,8 +381,8 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "A: Only Admins can edit this page.",
-                                                            "Justification": "Center",
+                                                            "Text": "$$SERVER$:$HOME_WIDGET3_TEXT",
+                                                            "Justification": "Left",
                                                             "FontSize": 11,
                                                             "Fill": 1,
                                                             "Padding": [
@@ -390,42 +390,6 @@
                                                                 0,
                                                                 0,
                                                                 5
-                                                            ]
-                                                        }
-                                                    },
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                        "Props": {
-                                                            "Label": "Learn More",
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        },
-                                                        "Modal": {
-                                                            "Props": {
-                                                                "Title": "Who and where to edit?"
-                                                            },
-                                                            "UIItems": [
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                                    "Props": {
-                                                                        "Text": "If you are in the admin mode, you will see an EDIT button in the upper right corner.",
-                                                                        "FontSize": 15,
-                                                                        "Fill": 1
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                                    "Props": {
-                                                                        "Label": "$$Ark-Nucleus$:$OK_BTN"
-                                                                    },
-                                                                    "OnClickEvent": {
-                                                                        "EventUID": "CloseModal"
-                                                                    }
-                                                                }
                                                             ]
                                                         }
                                                     }

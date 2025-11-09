@@ -96,21 +96,6 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
                                                         "Props": {
-                                                            "Label": "Link to a Twitter Page",
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        },
-                                                        "OnClickEvent": {
-                                                            "Url": "https://twitter.com/"
-                                                        }
-                                                    },
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                        "Props": {
                                                             "Label": "Join Discord",
                                                             "Image": "/Ark-Nucleus/SharedContent/Textures/Icons/T_Nucleus_DiscordLogo.T_Nucleus_DiscordLogo",
                                                             "Padding": [
@@ -554,7 +539,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "$$SERVER$:$FAQ1_HEADLINE",
+                                    "Text": "$$SERVER$:$FAQ1_HEADLINE1",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -567,7 +552,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "$$SERVER$:$FAQ1_TEXT",
+                                    "Text": "$$SERVER$:$FAQ_TEXT1",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -580,7 +565,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How often is the server wiped?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE2",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -593,7 +578,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: We aim to provide a stable and enjoyable gaming environment, so server wipes are infrequent. However, wipes may occur during major game updates or if necessary for maintenance purposes. We will notify players in advance if a wipe is scheduled.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT2",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -606,7 +591,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Are there any rules I need to follow?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE3",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -619,7 +604,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Yes, we have a set of rules in place to ensure fair play and a positive community experience. These rules typically cover areas such as harassment, cheating, and griefing. You can find our server rules posted in the above \"Rules\" tab or in our Discord server.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT3",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -632,7 +617,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How do I report a player for breaking the rules?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE4",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -645,7 +630,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: If you encounter a player violating server rules, please report them to one of our moderators or admins. You can do this through the in-game chat, Discord server, or by using the \"SURVIVORS HUB\" on the left side menu. Be sure to provide as much detail as possible, including the player's name and a description of the incident.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT4",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -658,7 +643,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Can I bring my friends to the server?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE5",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -671,7 +656,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Absolutely! We encourage you to invite your friends to join our server and embark on adventures together. Just make sure they also adhere to our server rules to maintain a friendly gaming environment.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT5",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -684,7 +669,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Is there a Discord server for the community?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE6",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -697,7 +682,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Yes, we have a Discord server where players can chat, share tips, and participate in events. You can find the link to our Discord server in the game's chat or on our server information page.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT6",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -710,7 +695,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: Can I suggest changes or improvements for the server?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE7",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -723,7 +708,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: Absolutely! We value feedback from our community and are always open to suggestions for improving the server experience. Whether it's a mod recommendation, gameplay adjustment, or general feedback, we encourage players to share their ideas with us through our Discord server or other communication channels.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT7",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -736,7 +721,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "Q: How do I contact the server admins?",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE8",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
@@ -749,7 +734,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "A: If you need assistance or have any concerns, you can reach out to our server admins via Discord. They are here to help resolve any issues and ensure everyone has an enjoyable gaming experience.",
+                                    "Text": "$$SERVER$:$FAQ_TEXT8",
                                     "FontSize": 12,
                                     "Padding": [
                                         5,
@@ -775,7 +760,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "We hope this FAQ helps address any questions you may have about our Ark game server. If you have any further inquiries, don't hesitate to ask our friendly community or server staff. Happy gaming!",
+                            "Text": "$$SERVER$:$FAQ_lastsentence",
                             "FontSize": 16,
                             "Padding": [
                                 5,
@@ -795,25 +780,6 @@
                     "Fill": 1
                 },
                 "UIItems": [
-                    {
-                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                        "Props": {
-                            "Text": "The listed Ruels and Guids are just an example until replaced by an admin with their own.",
-                            "FontSize": 22,
-                            "Justification": "Center",
-                            "Color": [
-                                1,
-                                0,
-                                0
-                            ],
-                            "Padding": [
-                                5,
-                                5,
-                                5,
-                                5
-                            ]
-                        }
-                    },
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Misc/DU_Misc_Line_v1.DU_Misc_Line_v1_C",
                         "Props": {

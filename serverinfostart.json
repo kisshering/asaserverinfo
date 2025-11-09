@@ -17,7 +17,7 @@
                     "Title": "$$SERVER$:$HOME",
                     "Note": "$$SERVER$:$HOME_NOTE",
                     "Fill": 1,
-                    "Image": "https://toquoc.mediacdn.vn/280518851207290880/2023/10/28/1280x720-1698384673235-16983846734011992338498-1698468805793-16984688059531353502588.jpg"
+                    "Image": "$$SERVER$:$HOME_BACKGROUND"
                 },
                 "UIItems": [
                     {

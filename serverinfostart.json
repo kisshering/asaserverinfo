@@ -189,7 +189,7 @@
                                                         "Props": {
                                                             "Text": "Server Einstellungen:",
                                                             "FontSize": 14,
-                                                            "Justification": "Center",
+                                                            "Justification": "Left",
                                                             "Padding": [
                                                                 0,
                                                                 0,
@@ -201,51 +201,15 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Taming x4\nXP x1\nHarvest x2\nBreeding x20\nLootdrops x3\nFischen x2\nStackgröße x6\nmax. Level wilde Dinos 150\nSpieler Level 105 (+ Bosse/Notes/Chibis)",
+                                                            "Text": "-Taming x4\n-XP x1\n-Harvest x2\n-Breeding x20\n-Lootdrops x3\n-Fischen x2\n-Stackgröße x6\n-max. Level wilde Dinos 150\n-Spieler Level 105 (+ Bosse/Notes/Chibis)",
                                                             "FontSize": 11,
-                                                            "Justification": "Center",
+                                                            "Justification": "Left",
                                                             "Fill": 1,
                                                             "Padding": [
                                                                 0,
                                                                 0,
                                                                 0,
                                                                 5
-                                                            ]
-                                                        }
-                                                    },
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                        "Props": {
-                                                            "Label": "Learn More",
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        },
-                                                        "Modal": {
-                                                            "Props": {
-                                                                "Title": "What is this About?"
-                                                            },
-                                                            "UIItems": [
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                                    "Props": {
-                                                                        "Text": "This is just a small representation of what kind of pages can be setup using the Ark-Nucleus JSON Editor.",
-                                                                        "FontSize": 15,
-                                                                        "Fill": 1
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                                    "Props": {
-                                                                        "Label": "$$Ark-Nucleus$:$OK_BTN"
-                                                                    },
-                                                                    "OnClickEvent": {
-                                                                        "EventUID": "CloseModal"
-                                                                    }
-                                                                }
                                                             ]
                                                         }
                                                     }
@@ -313,9 +277,9 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Q: Can I disable this for my server?",
+                                                            "Text": "Server Features:",
                                                             "FontSize": 14,
-                                                            "Justification": "Center",
+                                                            "Justification": "Left",
                                                             "Padding": [
                                                                 0,
                                                                 0,
@@ -327,51 +291,15 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "A: Yes, Go to Installed Mods -> Ark Nucleus ->Server Settings",
+                                                            "Text": "-GlobalerCross-Chat\n-Shop-System\n-Player/PlayerHandelssystem\n-Täglicher Neustart und DinoWildKill\n-100% Crossplay inklusive Shop",
                                                             "FontSize": 11,
-                                                            "Justification": "Center",
+                                                            "Justification": "Left",
                                                             "Fill": 1,
                                                             "Padding": [
                                                                 0,
                                                                 0,
                                                                 0,
                                                                 5
-                                                            ]
-                                                        }
-                                                    },
-                                                    {
-                                                        "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                        "Props": {
-                                                            "Label": "Learn More",
-                                                            "Padding": [
-                                                                5,
-                                                                5,
-                                                                5,
-                                                                5
-                                                            ]
-                                                        },
-                                                        "Modal": {
-                                                            "Props": {
-                                                                "Title": "Disable Server Info Page"
-                                                            },
-                                                            "UIItems": [
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
-                                                                    "Props": {
-                                                                        "Text": "As majority of things is optional in Ark-Nucleus so is the Server Info Page. You don't see use for it? Disable it!",
-                                                                        "FontSize": 15,
-                                                                        "Fill": 1
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Action/DU_Action_Button_v1.DU_Action_Button_v1_C",
-                                                                    "Props": {
-                                                                        "Label": "$$Ark-Nucleus$:$OK_BTN"
-                                                                    },
-                                                                    "OnClickEvent": {
-                                                                        "EventUID": "CloseModal"
-                                                                    }
-                                                                }
                                                             ]
                                                         }
                                                     }

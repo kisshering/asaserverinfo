@@ -187,7 +187,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "Q: What is this About?",
+                                                            "Text": "Server Einstellungen:",
                                                             "FontSize": 14,
                                                             "Justification": "Center",
                                                             "Padding": [
@@ -201,7 +201,7 @@
                                                     {
                                                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                                         "Props": {
-                                                            "Text": "A: Just a demo server info page provided my the Ark-Nucleus mod.",
+                                                            "Text": "Taming x4\nXP x1\nHarvest x2\nBreeding x20\nLootdrops x3\nFischen x2\nStackgröße x6\nmax. Level wilde Dinos 150\nSpieler Level 105 (+ Bosse/Notes/Chibis)",
                                                             "FontSize": 11,
                                                             "Justification": "Center",
                                                             "Fill": 1,

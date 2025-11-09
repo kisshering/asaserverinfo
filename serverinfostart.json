@@ -106,7 +106,7 @@
                                                             ]
                                                         },
                                                         "OnClickEvent": {
-                                                            "Url": "https://discord.gg/"
+                                                            "Url": "$$SERVER$:$DISCORD"
                                                         }
                                                     }
                                                 ]

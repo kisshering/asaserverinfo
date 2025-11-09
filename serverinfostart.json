@@ -760,7 +760,7 @@
                     {
                         "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                         "Props": {
-                            "Text": "$$SERVER$:$FAQ_lastsentence",
+                            "Text": "$$SERVER$:$FAQ_LASTSENTENCE",
                             "FontSize": 16,
                             "Padding": [
                                 5,

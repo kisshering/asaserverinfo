@@ -539,7 +539,7 @@
                             {
                                 "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
                                 "Props": {
-                                    "Text": "$$SERVER$:$FAQ1_HEADLINE1",
+                                    "Text": "$$SERVER$:$FAQ_HEADLINE1",
                                     "FontSize": 16,
                                     "Padding": [
                                         5,
